@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "jaaiom:nerdium_ore"
+  },
+  "result": "jaaiom:nerdium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

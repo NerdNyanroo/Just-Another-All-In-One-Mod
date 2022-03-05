@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "jaaiom:raw_nerdium_chunk"
+  },
+  "result": "jaaiom:nerdium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
